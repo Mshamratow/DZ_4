@@ -1,0 +1,14 @@
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\zadaci4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\zadaci4.AssemblyInfoInputs.cache
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\zadaci4.AssemblyInfo.cs
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\zadaci4.csproj.CoreCompileInputs.cache
+C:\Users\Name\source\repos\дз4\zadaci4\bin\Debug\net6.0\zadaci4.exe
+C:\Users\Name\source\repos\дз4\zadaci4\bin\Debug\net6.0\zadaci4.deps.json
+C:\Users\Name\source\repos\дз4\zadaci4\bin\Debug\net6.0\zadaci4.runtimeconfig.json
+C:\Users\Name\source\repos\дз4\zadaci4\bin\Debug\net6.0\zadaci4.dll
+C:\Users\Name\source\repos\дз4\zadaci4\bin\Debug\net6.0\zadaci4.pdb
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\zadaci4.dll
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\refint\zadaci4.dll
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\zadaci4.pdb
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\zadaci4.genruntimeconfig.cache
+C:\Users\Name\source\repos\дз4\zadaci4\obj\Debug\net6.0\ref\zadaci4.dll
